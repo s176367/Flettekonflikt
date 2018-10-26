@@ -1,0 +1,8 @@
+public class Master {
+    public static void main(String [] args){
+        /**
+         printer hello til master
+          */
+        System.out.println("Hello master");
+    }
+}
